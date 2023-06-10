@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 770 hello
+chmod 700 hello
